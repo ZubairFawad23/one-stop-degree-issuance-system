@@ -1,7 +1,7 @@
 # One Stop Degree Issuance System
 
 ## Overview
-This project is a web-based system for managing degree issuance at FAST Islamabad campus. It is developed using C# for the front end and TSQL for the backend. The system allows students to submit requests for degree issuance, track the progress of their requests, and receive their degrees. It also provides functionalities for administrators, the FYP and Finance departments, and the Director.
+This project is a web-based system for managing degree issuance at FAST Islamabad campus. It is developed using C# with asp.net for the front end and TSQL for the backend. The system allows students to submit requests for degree issuance, track the progress of their requests, and receive their degrees. It also provides functionalities for administrators, the FYP and Finance departments, and the Director.
 
 ## Instructions
 ### Prerequisites
